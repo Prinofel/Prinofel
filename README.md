@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Prinofel
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning backend
+- 💞️ I’m looking to collaborate on backend
